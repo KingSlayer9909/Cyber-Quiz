@@ -2,7 +2,7 @@
 A fun Cyber quiz I made.
 # Cyber-Quiz
 
-🕵️‍♂️ A fun beginner Python project that turns your name, favorite color, animal, and number into a secret agent code name.
+🕵️‍♂️ A fun beginner Python project that ChatGPT help me with.
 
 ## 🔧 How to Run
 
